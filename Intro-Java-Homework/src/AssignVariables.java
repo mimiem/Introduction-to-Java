@@ -17,5 +17,8 @@ public class AssignVariables {
         double seventh = 0.1234567891011;
         String eighth = "Palo Alto, CA";
         //short test = 32768;
+
+
+        //change
     }
 }
